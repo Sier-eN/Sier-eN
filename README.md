@@ -6,14 +6,6 @@
 
 </div>
 
-<div align="center">
-    
-![Profile Views](https://komarev.com/ghpvc/?username=Sier-eN&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Sier-eN?style=for-the-badge&color=1a73e8&labelColor=EBF5FF&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Sier-eN?style=for-the-badge&color=4facfe&labelColor=EBF5FF&label=TOTAL+STARS)
-
-</div>
-
 #  About Me
 
 ```txt

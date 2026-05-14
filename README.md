@@ -207,7 +207,7 @@ Every project becomes a lesson.
 
 </div>
 
-##  Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 

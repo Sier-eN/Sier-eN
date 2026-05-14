@@ -200,7 +200,9 @@ Every project becomes a lesson.
 
 #  GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sier-eN&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Sier-eN&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 #  Contribution Graph
 

@@ -201,6 +201,28 @@ Every project becomes a lesson.
 
 </div>
 
+# Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sier-eN&bg_color=e8f4fd&color=1a73e8&line=4facfe&point=0d47a1&area=true&area_color=4facfe30&hide_border=false&border_radius=12&custom_title=Giang's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+#  Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sier-eN/Sier-eN/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sier-eN/Sier-eN/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Giangvp689/Giangvp689/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
 #  Final Message
 
 ```txt

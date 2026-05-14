@@ -197,15 +197,13 @@ Every project becomes a lesson.
 
 <img src="https://streak-stats.demolab.com?user=Sier-eN&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sier-eN&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 # Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sier-eN&bg_color=e8f4fd&color=1a73e8&line=4facfe&point=0d47a1&area=true&area_color=4facfe30&hide_border=false&border_radius=12&custom_title=Giang's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sier-eN&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 

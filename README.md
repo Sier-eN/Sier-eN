@@ -198,10 +198,6 @@ Every project becomes a lesson.
 
 </div>
 
-#  GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sier-eN&theme=tokyonight)]
-
 #  Contribution Graph
 
 <div align="center">

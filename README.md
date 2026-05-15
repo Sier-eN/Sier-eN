@@ -9,7 +9,7 @@
 #  About Me
 
 ```txt
-Name        : Nghĩa Nguyễn
+Name        : Nghĩa Nguyễn Bị Thần Kinh Bị Rồ Bị Khùng Bị Dở
 Role        : Indie Game Developer
 Focus       : Roguelike / Pixel Art / Game Systems
 Philosophy  : “Death is part of progression.”
